@@ -1,6 +1,21 @@
 {
  "cells": [
   {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Observable Trends:\n",
+    "\n",
+    "1.)  One of the most glaring observable trends is that the overall passing score is significantly higher for charter schools as opposed to district schools.  The combined overall passing score for charter schools is 90.43% whereas the overall passing for district schools is only 53.67%.\n",
+    "\n",
+    "\n",
+    "2.)  Another trend that is interesting is how school size plays a roll in the overall passing percentage.  Schools that are over 2000 students have an overall passing score of only 58.29%.  However, schools that are under 2000 students have a combined passing score of 90.25%.  Based on these two trends...it would appear that the best recipe for success is to attend a charter school that is under 2000 students.\n",
+    "\n",
+    "\n",
+    "3.)  One final observable trend is that regardless of school type, size, or budget...most students seems to struggle more with math than they do reading.  Approximately 75% of students in the entire school district were passing math...while approximately 86% of them were passing reading.\n"
+   ]
+  },
+  {
    "cell_type": "code",
    "execution_count": 1,
    "metadata": {},
@@ -1689,6 +1704,13 @@
     "\n",
     "scores_by_type_df"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
